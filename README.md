@@ -4,4 +4,4 @@
 Orman Yangınlarının Erken Tespiti İçin Akıllı IoT Tabanlı Sensör Ağları
 
 * Temsili Fotoğraf<br/>
-![Forest](https://github.com/Tulumba-EUS/tulumba.github.io/raw/main/forest.jpg)
+![Forest](https://github.com/Tulumba-EUS/tulumba.github.io/raw/main/forest_iot.jpg)
